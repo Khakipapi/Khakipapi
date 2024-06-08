@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Reyes
 ==================================================================================================================================
 
-Cloud engineer / Dev ops engineer
+Cloud engineer / DevOps engineer
 ---------------------------------
 
 I am a dedicated Cloud Engineer with a Bachelor’s degree in Computer Science and a distinguished background as an Army war veteran and squad leader. My military experience has instilled in me a robust discipline and exceptional leadership skills, qualities I bring to the forefront of cloud engineering and DevOps. My passion for this field is fueled by my commitment to leveraging cutting-edge technologies and methodologies to develop scalable, efficient cloud infrastructures and streamline deployment processes. With a strong foundation in languages like JavaScript, Python, and systems like AWS and Linux, I am adept at designing solutions that enhance operational capabilities and drive technological innovation.
