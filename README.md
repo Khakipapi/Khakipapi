@@ -1,11 +1,18 @@
 # 👋 Hi, I'm José Reyes
 
-🎖️ Army veteran | 🎓 Computer Science Graduate | 🛡️ Security+ Certified | ☁️ AWS Certified
+🎖️ Army Veteran | 💻 Application Engineer | 🎓 Computer Science Graduate | ☁️ AWS Certified | 🛡️ Security+ Certified  
 
 ---
 
-🚀 **Linux System Administrator**  
-Detail-oriented and security-minded technologist with hands-on experience in system administration, scripting, and cloud deployment. I bring a disciplined, mission-driven mindset from my military background into every project I tackle—whether automating Linux user permissions or managing infrastructure with Terraform and GitHub Actions.
+🚀 **Application Engineer | Cloud & Linux Enthusiast**  
+Dedicated and results-driven professional specializing in application deployment, system integration, and cloud automation.  
+I combine my technical background in **Linux, Java, and PostgreSQL** with a mission-driven mindset from my military service to deliver secure, reliable, and scalable software environments.  
+
+Currently supporting enterprise systems as an **Application Engineer**, focusing on:
+- Deploying and maintaining **Java-based applications** on **Linux servers**
+- Optimizing **PostgreSQL databases** for performance and reliability  
+- Leveraging **AWS**, **Git**, and **CI/CD pipelines (GitHub Actions)** for seamless application delivery  
+- Automating tasks with **Bash**, **Python**, and **Terraform**
 
 ---
 
@@ -18,7 +25,6 @@ Detail-oriented and security-minded technologist with hands-on experience in sys
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
-<a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
