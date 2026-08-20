@@ -1,55 +1,104 @@
-# 👋 Hi, I'm José Reyes
+# Hi, I'm Jose Reyes
 
-🎖️ Army Veteran | 💻 Application Engineer | 🎓 Computer Science Graduate | ☁️ AWS Certified | 🛡️ Security+ Certified  
+## Cloud Engineer | DevOps | Secure Infrastructure Automation
 
----
+I build and support reliable cloud environments using **AWS, Terraform, Linux, CI/CD, Docker, and Kubernetes**. My background combines federal production operations, infrastructure automation, a B.S. in Computer Science, and Army leadership in high-trust environments.
 
-🚀 **Application Engineer | Cloud & Linux Enthusiast**  
-Dedicated and results-driven professional specializing in application deployment, system integration, and cloud automation.  
-I combine my technical background in **Linux, Java, and PostgreSQL** with a mission-driven mindset from my military service to deliver secure, reliable, and scalable software environments.  
+I am focused on cloud engineering roles where I can improve reliability, automate repeatable work, troubleshoot production systems, and help teams deliver secure infrastructure.
 
-Currently supporting enterprise systems as an **Application Engineer**, focusing on:
-- Deploying and maintaining **Java-based applications** on **Linux servers**
-- Optimizing **PostgreSQL databases** for performance and reliability  
-- Leveraging **AWS**, **Git**, and **CI/CD pipelines (GitHub Actions)** for seamless application delivery  
-- Automating tasks with **Bash**, **Python**, and **Terraform**
+[![Portfolio](https://img.shields.io/badge/Portfolio-josereyes.cloud-0A66C2?style=for-the-badge)](https://josereyes.cloud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--reyes31-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-reyes31/)
+[![Email](https://img.shields.io/badge/Email-Jose.reyesfabian%40gmail.com-2F4F4F?style=for-the-badge)](mailto:Jose.reyesfabian@gmail.com)
 
 ---
 
-### 🔧 Technical Snapshot
+### What I bring
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub Actions" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+- Experience supporting production Java applications, RHEL/Linux systems, and PostgreSQL and Oracle databases
+- Cloud operations experience supporting federal mission environments
+- Hands-on infrastructure as code with Terraform
+- Automated delivery workflows with GitHub Actions and Jenkins
+- Incident triage, log analysis, root-cause investigation, change control, and technical documentation
+- U.S. Army leadership experience as a Squad Leader and Training NCO
+- Active Top Secret security clearance
 
----
+### Technology stack
 
-### 📜 Certifications
-
-- ✅ CompTIA Security+ (Jul 2025 – Jul 2028)  
-- ✅ AWS Certified Cloud Practitioner (Aug 2024 – Aug 2027)  
-- ✅ Google Cybersecurity Certificate (Apr 2025)
+| Area | Technologies |
+|---|---|
+| **Cloud** | AWS, S3, CloudFront, Route 53, API Gateway, Lambda, DynamoDB, IAM, CloudWatch |
+| **Infrastructure as code** | Terraform |
+| **CI/CD and automation** | GitHub Actions, Jenkins, Git, Maven, Python, Bash |
+| **Containers** | Docker, Kubernetes Deployments and Services |
+| **Systems and data** | RHEL/Linux, PostgreSQL, Oracle, SQL, Splunk |
+| **Programming** | Python, Java, C#, JavaScript |
+| **Operations** | Monitoring, incident response, troubleshooting, change control, runbooks |
 
 ---
 
-### 🌐 Contact
+## Featured cloud and operations projects
 
-- 📧 [Jose.reyesfabian@gmail.com](mailto:Jose.reyesfabian@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-reyes-1ba5aa229/)  
-- 🧑‍💻 [GitHub](https://github.com/Khakipapi)  
-- 🌍 [Personal Website](https://josereyes.cloud/)  
+### [AWS Cloud Resume Platform](https://github.com/Khakipapi/my-cloud-resume-site)
+
+A serverless resume and portfolio platform that demonstrates AWS architecture, infrastructure as code, CI/CD, and cloud security fundamentals.
+
+- Provisions repeatable AWS infrastructure with **Terraform**
+- Delivers a static site through **S3, CloudFront, Route 53, and ACM**
+- Uses **API Gateway, Python Lambda, and DynamoDB** for a visitor counter
+- Automates deployments with **GitHub Actions**
+- Applies private S3 storage, CloudFront Origin Access Control, and least-privilege IAM concepts
+
+**Live environment:** [josereyes.cloud](https://josereyes.cloud/)
+
+### [Linux Directory Management and Bash Automation](https://github.com/Khakipapi/Linux_Hogwarts_directory_management)
+
+An Ubuntu command-line project demonstrating Linux file operations, permissions, search, immutable attributes, and shell automation.
+
+- Uses `mv`, `chmod`, `grep`, `find`, `chattr`, and `lsattr`
+- Searches nested directories and generates reports with Bash
+- Documents each operation with reproducible commands and results
+
+### [Blackjack Simulator Capstone](https://github.com/Khakipapi/BlackJack_Sim-Capstone_Project)
+
+A collaborative Java desktop application developed as a computer science capstone project.
+
+- Implements account management, game logic, persistent player statistics, and a graphical interface
+- Developed with a team using Agile practices and Kanban
+- Demonstrates object-oriented development, integration, documentation, and team delivery
 
 ---
 
-> “Discipline is the bridge between goals and accomplishment.” — Jim Rohn
+## What I am building next
+
+My current portfolio roadmap is centered on production-style cloud and DevOps evidence:
+
+- Improving the AWS platform with stronger Terraform validation, security scanning, monitoring, and operational documentation
+- Building a secure Dockerized Python service with health checks and automated image scanning
+- Deploying and troubleshooting the service with Kubernetes
+- Automating Linux configuration with Ansible
+- Creating runbooks for monitoring, incident response, rollback, and recovery
+
+---
+
+## Certifications and education
+
+- **CompTIA Security+**
+- **AWS Certified Cloud Practitioner** - valid through August 2027
+- **Bachelor of Science in Computer Science** - University of Maryland Global Campus, 2023
+
+## Professional interests
+
+I am interested in cleared opportunities involving:
+
+- Cloud engineering and AWS operations
+- DevOps and DevSecOps
+- Infrastructure and platform automation
+- Linux systems administration
+- Production and platform support
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/jose-reyes31](https://www.linkedin.com/in/jose-reyes31/)
+- **Portfolio:** [josereyes.cloud](https://josereyes.cloud/)
+- **Email:** [Jose.reyesfabian@gmail.com](mailto:Jose.reyesfabian@gmail.com)
+- **Location:** Washington, DC-Maryland-Virginia region
